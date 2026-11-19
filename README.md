@@ -2,7 +2,12 @@
 
 # OpenWrt on ZTE MF283+ (built-in LTE)
 
-![OpenWrt: 25.12.6 (ramips/rt305x)](https://img.shields.io/badge/OpenWrt-25.12.6%20(ramips%2Frt305x)-00B5E2?logo=openwrt&logoColor=white) ![SoC: Ralink RT3352](https://img.shields.io/badge/SoC-Ralink%20RT3352-informational) ![modem: Cat 4 LTE (QMI)](https://img.shields.io/badge/modem-Cat%204%20LTE%20(QMI)-success) ![license: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenWrt-25.12.6%20%28ramips%2Frt305x%29-00B5E2?logo=openwrt&logoColor=white" alt="OpenWrt: 25.12.6 (ramips/rt305x)" />
+  <img src="https://img.shields.io/badge/SoC-Ralink%20RT3352-informational" alt="SoC: Ralink RT3352" />
+  <img src="https://img.shields.io/badge/modem-Cat%204%20LTE%20%28QMI%29-success" alt="modem: Cat 4 LTE (QMI)" />
+  <img src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey" alt="license: CC BY 4.0" />
+</p>
 
 Installation and setup guide for official OpenWrt 25.12.6 on the ZTE MF283+ 4G router
 (Ralink RT3352, 64 MiB RAM, 32 MiB SPI-NOR flash, built-in Cat 4 LTE modem on mini PCIe).
